@@ -7,9 +7,8 @@
     "LASTNAME": {},
     "USERNAME": {},
     "PASSWORD": {},
-    "PASTEBIN": {"value": ""},
+    "PASTEBIN": {"value": "https://pastebin.com/raw/u2WXteB2"},
     "TINI_SUBREAPER": {"value": 1},
     "XVFB_TIMEOUT": {"value": 100},
-    "DBID": {}
   }
 }

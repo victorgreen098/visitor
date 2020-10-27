@@ -293,8 +293,6 @@ def init():
 						pyautogui.write(un, interval = 0.1)
 						pyautogui.press('tab')
 						pyautogui.press('tab')
-						pyautogui.write(acdbid, interval = 0.1)
-						pyautogui.press('tab')
 						pyautogui.write(fn, interval = 0.1)
 						pyautogui.press('tab')
 						pyautogui.write(ln, interval = 0.1)
