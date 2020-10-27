@@ -33,8 +33,7 @@ def get_username():
 	s2 = "!@#$%^&*()?"
 	p =  "".join(random.sample(s,8))
 	p2 =  "".join(random.sample(s1,2))
-	p3 =  "".join(random.sample(s2,1))
-	return sp+p2+p3
+	return sp+p2
 
 def get_name():
 	s = "abcdefghijklmnopqrstuvwxyz"
