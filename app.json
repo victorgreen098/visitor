@@ -1,0 +1,15 @@
+{
+  "name": "visitor",
+  "repository": "https://github.com/victorgreen098/visitor",
+  "stack": "container",
+  "env": {
+    "FIRSTNAME": {},
+    "LASTNAME": {},
+    "USERNAME": {},
+    "PASSWORD": {},
+    "PASTEBIN": {"value": ""},
+    "TINI_SUBREAPER": {"value": 1},
+    "XVFB_TIMEOUT": {"value": 100},
+    "DBID": {}
+  }
+}
